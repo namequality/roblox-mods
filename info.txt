@@ -1,0 +1,19 @@
+regular cursor: ArrowFarCursor.png
+hovering-over-clickable-object cursor: ArrowCursor.png
+Typing beam: IBeamCursor.png
+max image size: 64x64
+
+to make custom cursors click at the correct location,
+make sure the hotspot (clicking point) is in the center of the image.
+
+to insert the cursors into roblox, just run findthefolder.bat
+and drag the cursor files into the folder that opens (when it says that a file
+under the same name already exists, just press replace.
+((Make sure the file names are correct))
+
+🔴⚫🔴⚫🔴⚫🔴⚫DO NOT RENAME ANY FILES, SOMETHING MIGHT BREAK⚫🔴⚫🔴⚫🔴⚫🔴
+
+
+donate 🤑🤑🤑
+cashapp: cash.app/$norobux
+paypal: @NameQuality
